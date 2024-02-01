@@ -15,13 +15,13 @@ Before using this script, ensure you have the following installed:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/achneerov/easy-import-csv-into-mysql.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd your-repository
+    cd easy-import-csv-into-mysql
     ```
 
 3. **Place your CSV file in the `place-csv-files-here` directory.**
@@ -38,7 +38,7 @@ Before using this script, ensure you have the following installed:
 5. **Run the script:**
 
     ```bash
-    python create_mysql_table_from_csv.py
+    python insert-into-db.py.py
     ```
 
 ## Configuration
